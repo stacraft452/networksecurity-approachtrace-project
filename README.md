@@ -33,6 +33,7 @@ This tool enables red team members to track their teammates' methodologies durin
 
 2. **Backend Execution**
    ```bash
+   #run db_init.sql first in database(mysql) and change the options of database connection
    # Run the backend directly
    go build main.go(windows) / go build -o main-linux.exe main.go(windows for linux)
    
