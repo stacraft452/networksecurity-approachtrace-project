@@ -44,3 +44,6 @@ This tool enables red team members to track their teammates' methodologies durin
 ## Motivation
 
 Based on real-world red team experience: when team members operate on separate attack paths, mid-mission roadblocks often require reallocation to other tasks. This platform simplifies tracking of each member's approach, reducing leadership overhead and preventing team energy depletion from redundant work.
+
+## Demo address
+39.99.41.108:5173
